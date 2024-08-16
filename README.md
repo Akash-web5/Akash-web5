@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Akash-web5
-- 👀 I’m interested in making apl
+- 👀 I’m interested in making app
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on money
 - 📫 How to reach me duciuf12@gmail.com
-- 😄 Pronouns: englisj
+- 😄 Pronouns: english
 - ⚡ Fun fact: nothing
 
 <!---
